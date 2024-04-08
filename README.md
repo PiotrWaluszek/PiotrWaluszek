@@ -38,9 +38,6 @@ When I'm not in the cloud, I'm probably training a model or crunching numbers. I
   <a href="https://www.linkedin.com/in/piotrwaluszek/">LinkedIn</a><br>
 </p>
 
-<p align="center">
-  <img src="https://gpvc.arturio.dev/PiotrWaluszek" alt="Profile views"/>
-</p>
 
 <h3>📈 My GitHub Stats:</h3>
 
