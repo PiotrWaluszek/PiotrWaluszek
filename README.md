@@ -38,11 +38,4 @@ When I'm not in the cloud, I'm probably training a model or crunching numbers. I
   <a href="https://www.linkedin.com/in/piotrwaluszek/">LinkedIn</a><br>
 </p>
 
-
-<h3>📈 My GitHub Stats:</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PiotrWaluszek&show_icons=true" alt="YourName's GitHub stats"/>
-</p>
-
 <hr>
